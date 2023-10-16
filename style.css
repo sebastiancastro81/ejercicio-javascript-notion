@@ -1,0 +1,32 @@
+body {
+  display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    place-items: center;
+}
+
+
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-resultado {
+    height: 100px;
+    width: 300px;
+    border: 1px solid;
+    border-color: blue;
+    border-radius: 5px;
+   
+}
+
+.resultado {
+    width: 80%;
+    height: 40%;
+    border: 1px solid;
+
+}
